@@ -1,3 +1,8 @@
 # Applied Data Science Project
 
-Code and materials for the Applied Data Science project. The unit is taught at the University of Bristol, Bristol, UK in 2019.
+
+Code and materials for Water Quality Analysis 
+
+-Authors:
+    Ruben Powar     (https://github.com/RubenPowar)
+    Gizat Makhanov  (https://github.com/gizat)
